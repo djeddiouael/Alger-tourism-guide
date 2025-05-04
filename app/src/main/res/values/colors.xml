@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="night_blue">#0D1B2A</color> <!-- Bleu nuit profond -->
+    <color name="night_blue_pressed">#506895</color> <!-- Variante pour appuyé -->
+
+</resources>

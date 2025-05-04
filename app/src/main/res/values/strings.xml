@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Tourism Guide</string>
+    <string name="app_description">Welcome to our Tourism Guide app! Explore the beautiful city of Algiers with its rich history, stunning architecture, and vibrant culture.</string>
+    <string name="explore_city">Explore Algiers</string>
+    <string name="created_by">Created by:</string>
+    <string name="student_names">DJEDDI OUAEL \nSLIMANI RABAH \nAZZIEZ ABDELRAOUF</string>
+
+    <string name="notredame_name">Notre Dame dAfrique</string>
+    <string name="notredame_description">A 19th century Roman Catholic basilica with stunning views of the bay of Algiers.</string>
+    <string name="notredame_address">Zghara district, Algiers</string>
+
+    <string name="site_casbah_name">Casbah of Algiers</string>
+    <string name="site_casbah_description">A UNESCO World Heritage site and historic citadel with narrow streets and traditional houses.</string>
+    <string name="site_casbah_address">Algiers, Algeria</string>
+
+    <string name="site_el_aurassi_name">El Aurassi Hotel</string>
+    <string name="site_el_aurassi_description">A luxury hotel with panoramic views of the Bay of Algiers.</string>
+    <string name="site_el_aurassi_address">2 Boulevard Franz Fanon, Algiers</string>
+
+    <string name="site_le_lyre_name">Le Lyre Restaurant</string>
+    <string name="site_le_lyre_description">A fine dining restaurant offering traditional Algerian cuisine.</string>
+    <string name="site_le_lyre_address">Downtown Algiers</string>
+
+    <string name="site_hamma_name">Jardin dEssai du Hamma</string>
+    <string name="site_hamma_description">A botanical garden with a wide variety of plants and trees.</string>
+    <string name="site_hamma_address">Belouizdad, Algiers</string>
+
+
+
+
+
+
+    <string name="city_name">Algiers</string>
+    <string name="city_description">Algiers, the capital of Algeria, is a vibrant coastal city with a rich history and stunning architecture. From the historic Casbah to modern boulevards, Algiers offers a unique blend of Mediterranean and North African cultures.</string>
+    <string name="city_image_description">Image of Algiers</string>
+    <string name="explore_categories">Explore Categories</string>
+    
+    <string name="category_tourist_attractions">Tourist Attractions</string>
+    <string name="category_hotels_restaurants">Hotels &amp; Restaurants</string>
+    <string name="category_public_gardens">Public Gardens</string>
+    
+    <string name="site_count">%1$d sites</string>
+    <string name="view_more">View more</string>
+    <string name="site_image_description">Image of the site</string>
+    
+    <string name="contact_info">Contact Information</string>
+    <string name="contact_actions">Contact Actions</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="address">Address:</string>
+    <string name="call">Call</string>
+    <string name="sms">SMS</string>
+    <string name="email_action">Email</string>
+    
+    <string name="no_app_available">No application available to handle this action</string>
+    <string name="sms_template">Hello, I am interested in visiting %1$s. Can you provide more information?</string>
+    <string name="email_subject">Inquiry about %1$s</string>
+    <string name="email_template">Hello,\n\nI am interested in visiting %1$s. Can you please provide more information?\n\nThank you.</string>
+    
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+
+</resources>
+

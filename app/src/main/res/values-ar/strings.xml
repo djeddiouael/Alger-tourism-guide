@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">دليل السياحة</string>
+    <string name="app_description">مرحبًا بكم في تطبيق دليل السياحة! استكشف مدينة الجزائر الجميلة بتاريخها الغني وهندستها المعمارية المذهلة وثقافتها النابضة بالحياة.</string>
+    <string name="explore_city">استكشف الجزائر</string>
+    <string name="created_by">تم إنشاؤه بواسطة:</string>
+    <string name="student_names">جدي وائل \nسليماني رابح \nعزيز عبد الرؤوف</string>
+
+    <string name="notredame_name">كنيسة السيدة الإفريقية</string>
+    <string name="notredame_description">كنيسة كاثوليكية من القرن التاسع عشر تطل على خليج الجزائر بمنظر رائع.</string>
+    <string name="notredame_address">حي زغارة، الجزائر العاصمة</string>
+
+    <string name="site_casbah_name">قصبة الجزائر</string>
+    <string name="site_casbah_description">موقع تراث عالمي لليونسكو وقلعة تاريخية بشوارع ضيقة ومنازل تقليدية.</string>
+    <string name="site_casbah_address">الجزائر العاصمة</string>
+
+    <string name="site_el_aurassi_name">فندق الأوراسي</string>
+    <string name="site_el_aurassi_description">فندق فاخر يطل على خليج الجزائر بمناظر بانورامية.</string>
+    <string name="site_el_aurassi_address">2 شارع فرانز فانون، الجزائر العاصمة</string>
+
+    <string name="site_le_lyre_name">مطعم لير</string>
+    <string name="site_le_lyre_description">مطعم فاخر يقدم المأكولات الجزائرية التقليدية.</string>
+    <string name="site_le_lyre_address">وسط مدينة الجزائر</string>
+
+    <string name="site_hamma_name">حديقة التجارب الحامة</string>
+    <string name="site_hamma_description">حديقة نباتية تضم مجموعة متنوعة من النباتات والأشجار.</string>
+    <string name="site_hamma_address">بلوزداد، الجزائر العاصمة</string>
+
+
+
+
+
+
+    <string name="city_name">الجزائر</string>
+    <string name="city_description">الجزائر، عاصمة الجزائر، هي مدينة ساحلية نابضة بالحياة ذات تاريخ غني وهندسة معمارية مذهلة. من القصبة التاريخية إلى الشوارع الحديثة، تقدم الجزائر مزيجًا فريدًا من ثقافات البحر الأبيض المتوسط وشمال إفريقيا.</string>
+    <string name="city_image_description">صورة الجزائر</string>
+    <string name="explore_categories">استكشف الفئات</string>
+    
+    <string name="category_tourist_attractions">المعالم السياحية</string>
+    <string name="category_hotels_restaurants">الفنادق والمطاعم</string>
+    <string name="category_public_gardens">الحدائق العامة</string>
+    
+    <string name="site_count">%1$d مواقع</string>
+    <string name="view_more">عرض المزيد</string>
+    <string name="site_image_description">صورة الموقع</string>
+    
+    <string name="contact_info">معلومات الاتصال</string>
+    <string name="contact_actions">إجراءات الاتصال</string>
+    <string name="phone">الهاتف:</string>
+    <string name="email">البريد الإلكتروني:</string>
+    <string name="address">العنوان:</string>
+    <string name="call">اتصال</string>
+    <string name="sms">رسالة</string>
+    <string name="email_action">بريد إلكتروني</string>
+    
+    <string name="no_app_available">لا يوجد تطبيق متاح للتعامل مع هذا الإجراء</string>
+    <string name="sms_template">مرحبًا، أنا مهتم بزيارة %1$s. هل يمكنك تقديم المزيد من المعلومات؟</string>
+    <string name="email_subject">استفسار حول %1$s</string>
+    <string name="email_template">مرحبًا،\n\nأنا مهتم بزيارة %1$s. هل يمكنك تقديم المزيد من المعلومات؟\n\nشكرًا لك.</string>
+    
+    <string name="language">اللغة</string>
+    <string name="english">الإنجليزية</string>
+    <string name="arabic">العربية</string>
+
+
+</resources>
+
